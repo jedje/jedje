@@ -20,4 +20,5 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/oracle-lightgrey?style=flat-square&logo=oracle&logoColor=red"/>
   <img src="https://img.shields.io/badge/postgreSQL-blue?style=flat-square&logo=postgreSQL&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React Native-61DAFB?style=flat-square&logo=React&logoColor=black"/>
 </p>
