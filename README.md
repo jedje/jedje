@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <p>
   <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
-  <img src="https://img.shields.io/badge/pro*c-A8B9CC?style=flat-square&logo=&logoColor=white"/>
+  <img src="https://img.shields.io/badge/pro*c-A8B9CC?style=flat-square&logo=pro*c&logoColor=white"/>
   <img src="https://img.shields.io/badge/oracle-lightgrey?style=flat-square&logo=oracle&logoColor=red"/>
   <img src="https://img.shields.io/badge/postgreSQL-blue?style=flat-square&logo=postgreSQL&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
