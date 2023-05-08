@@ -1,6 +1,11 @@
 ### 안녕하세요 👋 
 ##### 거북이가 되자 !
 
+
+##### 경력
+##### 2019.05 ~ 2022.05 위드정보 농협 계정계 SI
+##### 2022.06 ~ ing 스타트업
+
 <!--
 **jedje/jedje** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
