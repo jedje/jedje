@@ -1,4 +1,4 @@
-### Hi there 👋
+### 안녕하세요 👋
 
 <!--
 **jedje/jedje** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p>
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
-<img src="https://img.shields.io/badge/javascript-yellow?style=flat-square&logo=Java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/javascript-yellow?style=flat-square&logo=javascript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/vue-green?style=flat-square&logo=vue&logoColor=white"/>
+  <img src="https://img.shields.io/badge/oracle-red?style=flat-square&logo=oracle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/postgreSQL-blue?style=flat-square&logo=postgreSQL&logoColor=white"/>
 </p>
