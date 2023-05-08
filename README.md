@@ -1,8 +1,8 @@
 ### :turtle: 거북이가 되자 !
 
 ##### 경력
-###### 2019.05 ~ 2022.05 은행 계정계 SI
 ###### 2022.06 ~ ing 스타트업
+###### 2019.05 ~ 2022.05 은행 계정계 SI
 
 <!--
 **jedje/jedje** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
